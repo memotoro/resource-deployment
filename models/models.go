@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	v1alpha2 "github.com/seldonio/seldon-core/operator/apis/machinelearning/v1alpha2"
+	v1alpha2 "github.com/seldonio/seldon-core/operator/apis/machinelearning.seldon.io/v1alpha2"
 )
 
 // Status represents the data back after deletion

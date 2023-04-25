@@ -10,7 +10,7 @@ import (
 	"github.com/memotoro/seldonio-resource-deployment/clients"
 	"github.com/memotoro/seldonio-resource-deployment/models"
 
-	v1alpha2 "github.com/seldonio/seldon-core/operator/apis/machinelearning/v1alpha2"
+	v1alpha2 "github.com/seldonio/seldon-core/operator/apis/machinelearning.seldon.io/v1alpha2"
 )
 
 // CreateResource creates the resource in the cluster via API
